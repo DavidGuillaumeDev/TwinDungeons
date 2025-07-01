@@ -14,10 +14,11 @@ Ce dépôt contient la documentation technique du projet (nom du projet). Il dé
 
 1. Clonez le dépôt :
 
-   ```bash
+   ```
+git clone [https://github.com/votre-organisation/nom-du-projet.git](https://github.com/votre-organisation/nom-du-projet.git)
    ```
 
-git clone [https://github.com/votre-organisation/nom-du-projet.git](https://github.com/votre-organisation/nom-du-projet.git)
+
 cd nom-du-projet
 
 ````
